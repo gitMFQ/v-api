@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        { "source": "/", "destination": "https://bingbot.eu.org" },
+        {
+            "source": "/:match*",
+            "destination": "https://bingbot.eu.org/:match*"
+        }
+    ],
+    "github": {
+        "silent": true
+    }
+}
