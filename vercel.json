@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://vapi.awac.cn" },
+        { "source": "/", "destination": "https://bingbot.eu.org" },
         {
             "source": "/:match*",
-            "destination": "https://vapi.awac.cn/:match*"
+            "destination": "https://bingbot.eu.org/:match*"
         }
     ],
     "github": {
