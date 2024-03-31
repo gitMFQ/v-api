@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://xn--ext8z.xn--8mr619f.chat" },
+        { "source": "/", "destination": "https://vapi.awac.cn" },
         {
             "source": "/:match*",
-            "destination": "https://xn--ext8z.xn--8mr619f.chat/:match*"
+            "destination": "https://vapi.awac.cn/:match*"
         }
     ],
     "github": {
