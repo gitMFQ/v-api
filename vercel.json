@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://bingso.eu.org" },
+        { "source": "/", "destination": "https://xn--ext8z.awac.cn" },
         {
             "source": "/:match*",
-            "destination": "https://bingso.eu.org/:match*"
+            "destination": "https://xn--ext8z.awac.cn/:match*"
         }
     ],
     "github": {
