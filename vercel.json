@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://gptplus.eu.org" },
+        { "source": "/", "destination": "https://b.osai.eu.org" },
         {
             "source": "/:match*",
-            "destination": "https://gptplus.eu.org/:match*"
+            "destination": "https://b.osai.eu.org/:match*"
         }
     ],
     "github": {
