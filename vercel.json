@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://bingbot.eu.org" },
+        { "source": "/", "destination": "https://xn--ext8z.xn--8mr619f.chat" },
         {
             "source": "/:match*",
-            "destination": "https://bingbot.eu.org/:match*"
+            "destination": "https://xn--ext8z.xn--8mr619f.chat/:match*"
         }
     ],
     "github": {
