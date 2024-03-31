@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://bingso.eu.org" },
+        { "source": "/", "destination": "https://gptplus.eu.org" },
         {
             "source": "/:match*",
-            "destination": "https://bingso.eu.org/:match*"
+            "destination": "https://gptplus.eu.org/:match*"
         }
     ],
     "github": {
