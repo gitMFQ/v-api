@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://xn--ext8z.awac.cn" },
+        { "source": "/", "destination": "https://vercel-openaiapi.vercel.app" },
         {
             "source": "/:match*",
-            "destination": "https://xn--ext8z.awac.cn/:match*"
+            "destination": "https://vercel-openaiapi.vercel.app/:match*"
         }
     ],
     "github": {
